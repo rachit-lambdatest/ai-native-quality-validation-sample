@@ -9,4 +9,4 @@ assignee: 3126589
 environment_id: 282683
 
 # Test URL for automation
-# test_url: "https://demo.lambdatestinternal.com"
+test_url: "https://rachit-lambdatest.github.io/ai-native-quality-validation-sample/pr-1/"
