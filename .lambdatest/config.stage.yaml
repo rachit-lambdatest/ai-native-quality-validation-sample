@@ -5,8 +5,8 @@ project_id: "01KQY29X80MGN9JFFKYSK97C3D"
 folder_id: "01KQY29YJ4MMT4S5B6H0J3HVMA"
 
 # Test Run configuration
-assignee: 1000307723
+assignee: 1000217974
 environment_id: 73933
 
-# Test URL for automation
-# test_url: "https://demo.lambdatestinternal.com"
+# Test URL — GH Pages preview for PR #5 (deploys actual H1 rename)
+test_url: "https://rachit-lambdatest.github.io/ai-native-quality-validation-sample/pr-5/"
