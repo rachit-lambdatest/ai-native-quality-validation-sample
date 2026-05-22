@@ -14,6 +14,7 @@ const categories = [
   { name: 'Luxury', icon: '✨', filter: { minPrice: 500 } },
   { name: 'Budget', icon: '🎯', filter: { maxPrice: 300 } },
   { name: 'Mountain', icon: '🏔️', filter: { amenities: ['Mountain View'] } },
+  { name: 'Pet-Friendly', icon: '🐾', filter: { amenities: ['Pet Friendly'] } },
 ];
 
 const Home = () => {
