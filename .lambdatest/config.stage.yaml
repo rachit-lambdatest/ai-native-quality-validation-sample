@@ -9,4 +9,4 @@ assignee: 1000307723
 environment_id: 73933
 
 # Test URL for automation
-# test_url: "https://demo.lambdatestinternal.com"
+test_url: "https://demo.lambdatestinternal.com"
